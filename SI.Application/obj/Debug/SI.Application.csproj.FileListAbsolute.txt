@@ -1,0 +1,5 @@
+C:\Users\yazilimpc1\source\repos\SI\SI.Application\obj\Debug\SI.Application.csprojAssemblyReference.cache
+C:\Users\yazilimpc1\source\repos\SI\SI.Application\obj\Debug\SI.Application.Enter.resources
+C:\Users\yazilimpc1\source\repos\SI\SI.Application\obj\Debug\SI.Application.Properties.Resources.resources
+C:\Users\yazilimpc1\source\repos\SI\SI.Application\obj\Debug\SI.Application.csproj.GenerateResource.cache
+C:\Users\yazilimpc1\source\repos\SI\SI.Application\obj\Debug\SI.Application.csproj.CoreCompileInputs.cache
