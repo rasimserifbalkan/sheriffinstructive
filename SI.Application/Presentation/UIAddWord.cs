@@ -99,7 +99,7 @@ namespace SI.App.Presentation
         }
         void LoadWords()
         {
-            WordList = _wordRepository.List();
+            WordList = _wordRepository.List(x => x.SetId == _setId);
             wordBindingSource.DataSource = WordList;
         }
 
